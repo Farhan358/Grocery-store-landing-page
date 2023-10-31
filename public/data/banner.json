@@ -1,0 +1,26 @@
+[
+    {
+        "image": "./images/banner/banner1.png",
+        "title": "Stay Home & Get Delivered Your Daily need's",
+        "description": "Start your Daily Shopping with Us",
+        "button": {
+            "text": "Order Now"
+        }
+    },
+    {
+        "image": "./images/banner/banner2.png",
+        "title": "We Bring The Store To Your Door",
+        "description": "Unleash Your Inner Chef with Our Fresh Ingredients!",
+        "button": {
+            "text": "Order Now"
+        }
+    },
+    {
+        "image": "./images/banner/banner3.png",
+        "title": "Your Comfort is our business",
+        "description": "Get 25% off on All items. Limited time offer!",
+        "button": {
+            "text": "Shop Now"
+        }
+    }
+]

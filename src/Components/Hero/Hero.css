@@ -1,0 +1,72 @@
+.sliderstyle {
+    height: 100%;
+    position: relative;
+}
+
+.slidestyle {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+}
+
+.containerstyle {
+    width: auto;
+    height: 400px;
+    margin: 0 auto;
+}
+
+
+
+
+.arrowstyle {
+    position: absolute;
+    top: 50%;
+    transform: "tranlate(0,-50%)";
+    font-size: 35px;
+    color: #fff;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.left {
+    left: 28px;
+}
+
+.right {
+    right: 28px;
+}
+
+.headline {
+    position: relative;
+    top: 35%;
+    margin-left: 70px;
+    padding: 25px;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.description {
+    position: relative;
+    top: 25%;
+    margin-left: 70px;
+    padding: 25px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.btn-text {
+    position: relative;
+    top: 25%;
+    margin-left: 100px;
+    font-weight: 600;
+    font-size: 15px;
+    background: #fff;
+    color: #292929;
+    font-size: 15x;
+    padding: 8px 16px;
+    border: 5px solid transparent;
+    border-radius: 5px;
+    background: #fff;
+}

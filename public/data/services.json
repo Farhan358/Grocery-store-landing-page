@@ -1,0 +1,22 @@
+[
+    {
+        "image": "../images/icons/delivery.svg",
+        "name": "Free Delevary",
+        "description": "For all orders over 500 Taka"
+    },
+    {
+        "image": "../images/icons/refund.svg",
+        "name": "Refundable",
+        "description": "If your item is damaged we agree to refund it"
+    },
+    {
+        "image": "../images/icons/securepayment.svg",
+        "name": "Secure Payment",
+        "description": "100% Secure Payment"
+    },
+    {
+        "image": "../images/icons/support.svg",
+        "name": "24/7 Customer Support",
+        "description": "We have dedicated support"
+    }
+]

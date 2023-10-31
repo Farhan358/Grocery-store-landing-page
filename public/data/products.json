@@ -1,0 +1,72 @@
+[
+    {
+        "product_name": "Banana",
+        "price": "10 TK",
+        "image_url": "../images/products/product2.png"
+    },
+    {
+        "product_name": "Apple",
+        "price": "200 TK",
+        "image_url": "../images/products/product3.png"
+    },
+    {
+        "product_name": "Oil",
+        "price": "185 TK",
+        "image_url": "../images/products/product5.png"
+    },
+    {
+        "product_name": "Onion",
+        "price": "70 TK",
+        "image_url": "../images/products/product6.png"
+    },
+    {
+        "product_name": "Milk",
+        "price": "100 TK",
+        "image_url": "../images/products/product7.png"
+    },
+    {
+        "product_name": "Carrot",
+        "price": "80 TK",
+        "image_url": "../images/products/product8.png"
+    },
+    {
+        "product_name": "Tomato",
+        "price": "80 TK",
+        "image_url": "../images/products/product9.png"
+    },
+    {
+        "product_name": "Potato",
+        "price": "50 TK",
+        "image_url": "../images/products/product10.png"
+    },
+    {
+        "product_name": "Capcicum",
+        "price": 10,
+        "image_url": "../images/products/product11.png"
+    },
+    {
+        "product_name": "Milk Bread",
+        "price": "70 TK",
+        "image_url": "../images/products/product12.png"
+    },
+    {
+        "product_name": "Beans",
+        "price": "180 TK",
+        "image_url": "../images/products/product13.png"
+    },
+    {
+        "product_name": "Salmon Fish Fillet",
+        "price": "400 TK",
+        "image_url": "../images/products/product14.png"
+    },
+    {
+        "product_name": "Ginger Bread",
+        "price": "130",
+        "image_url": "../images/products/product15.png"
+    },
+    {
+        "product_name": "Coffee Powder",
+        "price": "200 TK",
+        "image_url": "../images/products/product16.png"
+    }
+]

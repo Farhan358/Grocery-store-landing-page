@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fish & Meat",
+        "image": "../images/categories/fish&meat.png"
+    },
+    {
+        "name": "Vegetables",
+        "image": "../images/categories/vegetables.png"
+    },
+    {
+        "name": "Organic",
+        "image": "../images/categories/organic.png"
+    },
+    {
+        "name": "Drinks & Beverages",
+        "image": "../images/categories/drinks.png"
+    },
+    {
+        "name": "Dairy",
+        "image": "../images/categories/dairy.png"
+    },
+    {
+        "name": "Bakery",
+        "image": "../images/categories/bakery.png"
+    }
+]
